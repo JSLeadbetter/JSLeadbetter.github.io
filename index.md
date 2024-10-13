@@ -6,14 +6,10 @@ layout: default
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! I am a student on the MSc Computational Applied Mathematics program at The University of Edinburgh, UK.
+Hi! I have recently completed the MSc Computational Applied Mathematics program at [The University of Edinburgh](https://www.ed.ac.uk/).
 
 Previously, I worked as a software engineer at the algorithmic trading company, [Dragonfly](https://www.dragonflylabs.io).
-Before that, I studied for a bachelor's degree in Mathematics with Computer Science at the University of Southampton.
-
-## Research Interest
-
-Machine learning methods for satellite data.
+Before that, I studied for a bachelor's degree in Mathematics with Computer Science at the [University of Southampton](https://www.southampton.ac.uk/).
 
 <!-- ## Publications
 

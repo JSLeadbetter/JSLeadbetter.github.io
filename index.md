@@ -6,10 +6,11 @@ layout: default
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! I have recently completed the MSc Computational Applied Mathematics program at [The University of Edinburgh](https://www.ed.ac.uk/).
+Hi! Having recently completed the MSc Computational Applied Mathematics program at [The University of Edinburgh](https://www.ed.ac.uk/), I am now an incoming PhD student in Applied Mathematics at [The University of Manchester](https://www.manchester.ac.uk/).
+I am also associated with the EPSRC funded [ProbAI](https://www.probai.uk/) hub.
 
 Previously, I worked as a software engineer at the algorithmic trading company, [Dragonfly](https://www.dragonflylabs.io).
-Before that, I studied for a bachelor's degree in Mathematics with Computer Science at the [University of Southampton](https://www.southampton.ac.uk/).
+Before that, I studied for a BSc in Mathematics with Computer Science at the [University of Southampton](https://www.southampton.ac.uk/).
 
 <!-- ## Publications
 
